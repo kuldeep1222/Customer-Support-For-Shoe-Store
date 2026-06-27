@@ -1,0 +1,147 @@
+[
+  {
+    "product_id": "P001",
+    "brand": "Nike",
+    "name": "Nike Air Zoom Pegasus",
+    "category": "Running Shoes",
+    "price": 6499,
+    "sizes_available": [6, 7, 8, 9, 10, 11, 12],
+    "pieces_available": 18,
+    "in_stock": true,
+    "color": "Black/White",
+    "description": "Lightweight running shoes with responsive cushioning."
+  },
+  {
+    "product_id": "P002",
+    "brand": "Nike",
+    "name": "Nike Revolution 7",
+    "category": "Running Shoes",
+    "price": 4299,
+    "sizes_available": [6, 7, 8, 9, 10, 11],
+    "pieces_available": 12,
+    "in_stock": true,
+    "color": "Blue",
+    "description": "Comfortable everyday running shoes."
+  },
+  {
+    "product_id": "P003",
+    "brand": "Nike",
+    "name": "Nike Court Vision Low",
+    "category": "Casual Shoes",
+    "price": 5599,
+    "sizes_available": [7, 8, 9, 10, 11],
+    "pieces_available": 7,
+    "in_stock": true,
+    "color": "White",
+    "description": "Classic basketball-inspired casual sneakers."
+  },
+  {
+    "product_id": "P004",
+    "brand": "Nike",
+    "name": "Nike Downshifter 13",
+    "category": "Training Shoes",
+    "price": 4999,
+    "sizes_available": [6, 7, 8, 9, 10, 11, 12],
+    "pieces_available": 0,
+    "in_stock": false,
+    "color": "Grey",
+    "description": "Versatile training shoes for gym workouts."
+  },
+  {
+    "product_id": "P005",
+    "brand": "Adidas",
+    "name": "Adidas Ultraboost Light",
+    "category": "Running Shoes",
+    "price": 8999,
+    "sizes_available": [7, 8, 9, 10, 11, 12],
+    "pieces_available": 9,
+    "in_stock": true,
+    "color": "Black",
+    "description": "Premium running shoes with Boost cushioning."
+  },
+  {
+    "product_id": "P006",
+    "brand": "Adidas",
+    "name": "Adidas Duramo SL",
+    "category": "Running Shoes",
+    "price": 4799,
+    "sizes_available": [6, 7, 8, 9, 10],
+    "pieces_available": 20,
+    "in_stock": true,
+    "color": "Blue/White",
+    "description": "Lightweight running shoes for daily use."
+  },
+  {
+    "product_id": "P007",
+    "brand": "Adidas",
+    "name": "Adidas Grand Court 2.0",
+    "category": "Casual Shoes",
+    "price": 5299,
+    "sizes_available": [6, 7, 8, 9, 10, 11],
+    "pieces_available": 11,
+    "in_stock": true,
+    "color": "White/Green",
+    "description": "Clean tennis-inspired casual sneakers."
+  },
+  {
+    "product_id": "P008",
+    "brand": "Adidas",
+    "name": "Adidas Run Falcon 3",
+    "category": "Running Shoes",
+    "price": 4499,
+    "sizes_available": [6, 7, 8, 9, 10, 11],
+    "pieces_available": 0,
+    "in_stock": false,
+    "color": "Grey/Black",
+    "description": "Everyday running shoes with soft cushioning."
+  },
+  {
+    "product_id": "P009",
+    "brand": "Puma",
+    "name": "Puma Velocity Nitro",
+    "category": "Running Shoes",
+    "price": 6999,
+    "sizes_available": [7, 8, 9, 10, 11],
+    "pieces_available": 10,
+    "in_stock": true,
+    "color": "Red",
+    "description": "High-performance running shoes with Nitro foam."
+  },
+  {
+    "product_id": "P010",
+    "brand": "Puma",
+    "name": "Puma Smash V2",
+    "category": "Casual Shoes",
+    "price": 3999,
+    "sizes_available": [6, 7, 8, 9, 10],
+    "pieces_available": 15,
+    "in_stock": true,
+    "color": "White/Black",
+    "description": "Classic everyday sneakers."
+    
+  },
+  {
+    "product_id": "P011",
+    "brand": "Puma",
+    "name": "Puma Flyer Runner",
+    "category": "Running Shoes",
+    "price": 4599,
+    "sizes_available": [6, 7, 8, 9, 10, 11],
+    "pieces_available": 8,
+    "in_stock": true,
+    "color": "Navy Blue",
+    "description": "Breathable running shoes for beginners."
+  },
+  {
+    "product_id": "P012",
+    "brand": "Puma",
+    "name": "Puma Softride Enzo",
+    "category": "Training Shoes",
+    "price": 5499,
+    "sizes_available": [7, 8, 9, 10, 11, 12],
+    "pieces_available": 5,
+    "in_stock": true,
+    "color": "Black/Red",
+    "description": "Comfortable gym and training shoes."
+  }
+]

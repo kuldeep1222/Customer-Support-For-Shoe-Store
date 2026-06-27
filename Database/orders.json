@@ -1,0 +1,102 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "product_id": "P001",
+    "quantity": 1,
+    "size": 9,
+    "status": "Delivered",
+    "ordered_on": "2026-06-02",
+    "expected_delivery": "2026-06-06",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1002",
+    "product_id": "P006",
+    "quantity": 1,
+    "size": 8,
+    "status": "Shipped",
+    "ordered_on": "2026-06-12",
+    "expected_delivery": "2026-06-17",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1003",
+    "product_id": "P010",
+    "quantity": 2,
+    "size": 9,
+    "status": "Processing",
+    "ordered_on": "2026-06-18",
+    "expected_delivery": "2026-06-24",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1004",
+    "product_id": "P005",
+    "quantity": 1,
+    "size": 10,
+    "status": "Out for Delivery",
+    "ordered_on": "2026-06-15",
+    "expected_delivery": "2026-06-20",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1005",
+    "product_id": "P003",
+    "quantity": 1,
+    "size": 8,
+    "status": "Cancelled",
+    "ordered_on": "2026-06-05",
+    "expected_delivery": "2026-06-10",
+    "payment_status": "Refunded"
+  },
+  {
+    "order_id": "ORD-1006",
+    "product_id": "P009",
+    "quantity": 1,
+    "size": 11,
+    "status": "Delivered",
+    "ordered_on": "2026-05-28",
+    "expected_delivery": "2026-06-02",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1007",
+    "product_id": "P007",
+    "quantity": 1,
+    "size": 7,
+    "status": "Confirmed",
+    "ordered_on": "2026-06-19",
+    "expected_delivery": "2026-06-25",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1008",
+    "product_id": "P011",
+    "quantity": 2,
+    "size": 10,
+    "status": "Shipped",
+    "ordered_on": "2026-06-17",
+    "expected_delivery": "2026-06-22",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1009",
+    "product_id": "P012",
+    "quantity": 1,
+    "size": 9,
+    "status": "Delivered",
+    "ordered_on": "2026-06-01",
+    "expected_delivery": "2026-06-05",
+    "payment_status": "Paid"
+  },
+  {
+    "order_id": "ORD-1010",
+    "product_id": "P002",
+    "quantity": 1,
+    "size": 8,
+    "status": "Processing",
+    "ordered_on": "2026-06-20",
+    "expected_delivery": "2026-06-26",
+    "payment_status": "Pending"
+  }
+]
